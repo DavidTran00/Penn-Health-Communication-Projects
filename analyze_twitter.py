@@ -1,7 +1,7 @@
 ##########################################################
 ##########################################################
-# Script for running data checks and basic analyses of 
-# Twitter data in large CSV files sent from collaborators
+# Run data checks and basic analyses of Twitter data 
+# in large CSV files sent from collaborators
 ##########################################################
 ##########################################################
 
